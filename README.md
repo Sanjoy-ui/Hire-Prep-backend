@@ -1,4 +1,4 @@
-# InterviewIQ Server
+# HirePrep AI Server
 
 A robust Node.js/Express backend server for InterviewIQ - an AI-powered interview preparation and assessment platform.
 
