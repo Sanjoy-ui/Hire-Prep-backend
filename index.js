@@ -14,7 +14,7 @@ import mailRouter from "./routes/mail.routes.js"
 
 const app = express()
 app.use(cors({
-    origin: "http://localhost:5173",
+    origin: "https://hire-prep-ai-frontend.onrender.com",
     // origin: process.env.CORS_ORIGIN || "http://localhost:5173",
     credentials:true
 }))
